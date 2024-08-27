@@ -1,0 +1,12 @@
+python-dotenv
+haystack-ai
+haystack-experimental
+sentence-transformers 
+transformers
+gradio
+huggingface_hub
+cohere-haystack
+newspaper3k
+colorama
+trafilatura
+Ollama-haystack
